@@ -28,5 +28,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 [![LinkedIn](https://img.shields.io/badge/-mekkaoui%20maram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN/)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Telegram](https://img.shields.io/badge/-@mekkaoui%20maram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/YOUR_TELEGRAM)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/-@mekkaoui%20maram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/YOUR_TELEGRAM)](http://t.me/mkmaram)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/mekkaoui)](https://github.com/mekkaoui)
